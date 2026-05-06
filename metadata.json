@@ -1,0 +1,6 @@
+{
+  "name": "摇滚莫扎特 - 沉浸式互动体验站",
+  "description": "专为摇滚莫扎特设计的沉浸式网站，包含人物档案、音乐库列表、多视差动画剧照以及一款可以通过音频生成谱面的专属节奏打怪游戏。",
+  "requestFramePermissions": ["audio"],
+  "majorCapabilities": []
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&family=Noto+Serif+SC:wght@400;600;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", "Noto Serif SC", ui-serif, Georgia, serif;
+  
+  --color-gold-300: #E2C772;
+  --color-gold-500: #D4AF37;
+  --color-gold-700: #997A15;
+  
+  --color-crimson-500: #B71C1C;
+  --color-crimson-700: #7F0000;
+  
+  --color-velvet: #2A0810;
+  --color-onyx: #0a0a0a;
+}
+
+body {
+  background-color: var(--color-onyx);
+  color: #f5f2ed;
+}
